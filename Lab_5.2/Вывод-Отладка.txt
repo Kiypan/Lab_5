@@ -1,0 +1,14 @@
+﻿"Lab_5.2.exe" (Win32). Загружено "C:\Users\Kiypan\source\repos\Lab_5.2\Debug\Lab_5.2.exe". Символы загружены.
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x3344 завершился с кодом 0 (0x0).
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Lab_5.2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x351c завершился с кодом 0 (0x0).
+Поток 0x2878 завершился с кодом 0 (0x0).
+Программа "[2596] Lab_5.2.exe" завершилась с кодом 0 (0x0).

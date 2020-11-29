@@ -1,0 +1,2 @@
+C:\Users\Kiypan\source\repos\Lab_5.5\Debug\Lab_5.5.exe
+C:\Users\Kiypan\source\repos\Lab_5.5\Debug\Lab_5.5.pdb
